@@ -6,7 +6,8 @@ A worldbuilding project.
 In this scenario, humanity continues to progress over the next decades, for so to stagnate and fail after a brief century in relative harmony while the Earth's resources dwindle. Cataclysms happen, we revert to a state of disconnected pockets of survivors as we are no longer masters of nature. Though disconnected and temporarily offline, old instincts kick in and we crawl back to civilization while climate changes. The setting is somewhere between 5000 and 10000 AD, no-one is quite sure.
 
 A brief history
-===============
+---------------
+![](http://upload.wikimedia.org/wikipedia/commons/8/8b/Topographic_map_of_Greenland_bedrock.jpg)
 
 The next decades. Scientific and technological innovations create an abundance that spreads quickly. Capitalism provides material comfort for a global community. Conflicts decline. While the rich get richer, the middle class expands rapidly to consume most of the population. The 99% forget the abject poor, who die. Revolution never comes.
 
