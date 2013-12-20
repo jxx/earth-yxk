@@ -36,4 +36,5 @@ The entire carbon sink of oil, gas and coal is spent, most of it released into t
 
 While the writing is on the wall, even the most farsighted person can only see so far into the future. While our grandchildren are people we hopefully do or shall know, already their grandchildren are strangers. How then, can we expect us to plan for millenia?
 
+![](http://upload.wikimedia.org/wikipedia/commons/e/e0/AntarcticaRockSurface.jpg)
 
