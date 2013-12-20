@@ -3,7 +3,12 @@ earth-y10k
 
 A worldbuilding project.
 
-In this scenario, humanity continues to progress over the next decades, for so to stagnate and fail after a brief century in relative harmony while the Earth's resources dwindle. Cataclysms happen, we revert to a state of disconnected pockets of survivors as we are no longer masters of nature. Though disconnected and temporarily offline, old instincts kick in and we crawl back to civilization while climate changes. The setting is somewhere between 5000 and 10000 AD, no-one is quite sure.
+In this scenario, humanity continues to progress over the next decades, for so to stagnate and fail after a brief century or two in relative harmony. While the Earth's resources dwindle, climate changes too slowly for any generation to put up a serious effort. No cataclysms happen, but the eventual total depletion of non-renewables takes us into a constant state of conflict. Modern civilization starts disappearing. Slow changes snowball. We are no longer masters of nature. The major ice sheets melt and the last institutions fall. A dark age takes place as survivors scrape by in isolated pockets. The world floods and burns.
+
+Disconnected and offline, old instincts kick in and we crawl back from the collapse, rebuilding and rediscovering what we once had, and what no longer can be had. 
+
+The setting is somewhere between 5000 and 10000 AD, no-one is quite sure. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between lies a wasteland of jungles and deserts, oceans of algae and kelp. Few try to journey from north to south. 
+
 
 A brief history
 ---------------
