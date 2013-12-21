@@ -1,8 +1,11 @@
-Humanity as we know it has been relegated to the far north.  
+The world as we know it
+=======================
+
+Humanity has been relegated to the far north and south.  
 
 Only the nothern parts of  Greenland, Canada, Scandinavia, Russia and Alaska are inhabited. Nothing but rumors exist of any other population pockets, but there very well could be. With a few exceptions, not much is known about the world south of 60 degrees north, where the uninhabitable jungles and deserts of the new tropics begin.
 
-There are no records of humans settling on Antarctica; most remaining survivors having migrated north at the time of collapse of the ice sheet. It is not known whether the whole Antarcic ice sheet is gone, a great cause for concern.
+While therre are no records of humans settling on Antarctica during The Haight, some remaining groups migrated south after the collapse of the ice sheet. 
 
 The increased temperature has drastically increased atmospheric convection, leading to a year-round hypercane season in both the Atlantic and Pacific. While some brave souls attempt from time to time, no-one has sailed south of the equator in currently recorded history.
 
