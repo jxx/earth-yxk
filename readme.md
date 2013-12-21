@@ -1,5 +1,5 @@
-Earth, year ~X000
-=================
+Earth, year X000
+================
 
 A worldbuilding project for a story about the long run.
 
@@ -7,7 +7,7 @@ In this scenario, humanity continues to progress over the next decades, for so t
 
 After uncountable years at risk of extinction, ancient instincts kick in and we crawl back; rebuilding, retrying and rediscovering what we once had, and what no longer can be had. We are no longer masters of nature.
 
-The setting is somewhere between 5000 and 10000 AD, no-one is quite sure. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between are furnaced wastelands of jungles and deserts, oceans overgrown by algae and kelp. Weather is crap. Scattered relics and artefacts still draw the adventurous into the unknown, some returning with tales of monsters. Life below 60° lat. is lethal. Few try the year long journey from north to south, but one trail exists.
+The setting is somewhere between 4000 and 8000 AD, no-one is quite sure. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between are furnaced wastelands of jungles and deserts, oceans overgrown by algae and kelp. Weather is crap. Scattered relics and artefacts still draw the adventurous into the unknown, some returning with tales of monsters. Life below 60° lat. is lethal. Few try the year long journey from north to south, but one trail exists.
 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/8/8b/Topographic_map_of_Greenland_bedrock.jpg)
