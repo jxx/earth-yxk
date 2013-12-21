@@ -1,3 +1,6 @@
+A brief history of the future
+=============================
+
 The next decades. Scientific and technological innovations create an abundance that spreads quickly. Capitalism provides material comfort for a global community. Conflicts decline. While the rich get richer, the middle class expands rapidly to consume most of the population. The 99% forget the abject poor, who die. Revolution never comes.
 
 For a brief moment in our species history 10 billion individuals are mostly secure, well-nourished and healthy.
