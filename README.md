@@ -1,13 +1,13 @@
-earth-y10k
-==========
+Earth, year ~X000
+=================
 
-A worldbuilding project.
+A worldbuilding project for a story.
 
-In this scenario, humanity continues to progress over the next decades, for so to stagnate and fail after a brief century or two in relative harmony. While the Earth's resources dwindle, climate changes too slowly for any generation to put up a serious effort. No cataclysms happen, but the eventual total depletion of non-renewables takes us into a constant state of conflict. Modern civilization starts disappearing. Slow changes snowball. We are no longer masters of nature. The major ice sheets melt and the last institutions fall. A dark age takes place as survivors scrape by in isolated pockets. The world floods and burns.
+In this scenario, humanity continues to progress over the next decades, for so to stagnate and decline after a brief century or two in relative harmony. While the Earth's resources dwindle, climate changes too slowly for any generation to put up a serious effort. No cataclysms happen, but the eventual complete depletion of non-renewables takes us into a constant state of conflict. Slow changes snowball. Modern civilization starts a long fall, dismaantles and goes offline. The major ice sheets eventually collapse and the last institutions fail. A dark age takes place as survivors scrape by in isolated pockets. The world floods and burns.
 
-Disconnected and offline, old instincts kick in and we crawl back from the collapse, rebuilding and rediscovering what we once had, and what no longer can be had. 
+After uncountable years at risk of extinction, ancient instincts kick in and we crawl back; rebuilding, retrying and rediscovering what we once had, and what no longer can be had. We are no longer masters of nature.
 
-The setting is somewhere between 5000 and 10000 AD, no-one is quite sure. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between lies a wasteland of jungles and deserts, oceans of algae and kelp. Few try to journey from north to south. 
+The setting is somewhere between 5000 and 10000 AD, no-one is quite sure. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between are furnaced wastelands of jungles and deserts, separated by oceans overgrown by algae and kelp. Weather is crap. Life below 60° lat. is lethal, but scattered relics and artefacts still draw the adventurous into the unknown. Few try the year long journey from north to south, but one trail exists.
 
 
 A brief history
@@ -30,11 +30,7 @@ After some time, humanity settles into a steady-state of being really well off. 
 
 Population, which growth has been close to zero ever since the poorest person was better off than a citizen of Western Europe was in the late 1990s, ... workforce ... food supply ... potassium and phosphorous ... 
 
-... conflicts increase ... decline ... 
-
-... climate change ... resource wars ...
-
-... last antibiotics fail ... 
+... conflicts increase ... decline ... climate change ... resource wars ... last antibiotics fail ... details scarce and timeline nonexistent ...
 
 The entire carbon sink of oil, gas and coal is spent, most of it released into the atmosphere. It does not matter whether it takes 100 or 1000 years. On a geological timescale the change is instantaneous. 
 
