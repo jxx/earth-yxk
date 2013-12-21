@@ -3,7 +3,7 @@ Earth, year ~X000
 
 A worldbuilding project for a story.
 
-In this scenario, humanity continues to progress over the next decades, for so to stagnate and decline after a brief century or two in relative harmony. While the Earth's resources dwindle, climate changes too slowly for any generation to put up a serious effort. No cataclysms happen, but the eventual complete depletion of non-renewables takes us into a constant state of conflict. Slow changes snowball. Modern civilization starts a long fall, dismaantles and goes offline. The major ice sheets eventually collapse and the last institutions fail. A dark age takes place as survivors scrape by in isolated pockets. The world floods and burns.
+In this scenario, humanity continues to progress over the next decades, for so to stagnate and decline after a brief century or two in relative harmony. While the Earth's resources dwindle, climate changes too slowly for any generation to put up a serious effort. No cataclysms happen, but the eventual complete depletion of non-renewables takes us into a constant state of conflict. Slow changes snowball. Modern civilization starts a long fall, dismantles and goes offline. The major ice sheets eventually collapse and the last institutions fail. A dark age takes place as survivors scrape by in isolated pockets. The world floods and burns.
 
 After uncountable years at risk of extinction, ancient instincts kick in and we crawl back; rebuilding, retrying and rediscovering what we once had, and what no longer can be had. We are no longer masters of nature.
 
