@@ -16,4 +16,4 @@ The setting is somewhere between 4000 and 8000 AD, no-one is quite sure. Life is
 
 ![](http://upload.wikimedia.org/wikipedia/commons/e/e0/AntarcticaRockSurface.jpg)
 
-![](http://fc06.deviantart.net/fs71/f/2014/057/5/3/the_world___climate_change_by_jaysimons-d770uno.jpg?raw=true)
+![](http://infobeautiful3.s3.amazonaws.com/2014/04/1276_gigatons_CO2_apr2014.png)
