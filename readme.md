@@ -12,8 +12,8 @@ The setting is somewhere between 4000 and 8000 AD, no-one is quite sure. Life is
 
 ![](http://upload.wikimedia.org/wikipedia/commons/8/8b/Topographic_map_of_Greenland_bedrock.jpg)
 
-![](https://github.com/jxx/earth-yxk/blob/master/img/north.png)
+![](https://github.com/jxx/earth-yxk/blob/master/img/north.png?raw=true)
 
 ![](http://upload.wikimedia.org/wikipedia/commons/e/e0/AntarcticaRockSurface.jpg)
 
-![](http://fc06.deviantart.net/fs71/f/2014/057/5/3/the_world___climate_change_by_jaysimons-d770uno.jpg)
+![](http://fc06.deviantart.net/fs71/f/2014/057/5/3/the_world___climate_change_by_jaysimons-d770uno.jpg?raw=true)
