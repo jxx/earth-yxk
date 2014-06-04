@@ -9,6 +9,7 @@ After uncountable years at risk of extinction, ancient instincts kick in and we 
 
 The setting is somewhere between 4000 and 8000 AD, no-one is quite sure. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between are furnaced wastelands of jungles and deserts, oceans overgrown by algae and kelp. Weather is crap. Scattered relics and artefacts still draw the adventurous into the unknown, some returning with tales of monsters. Life below 60° lat. is lethal. Few try the year long journey from north to south, but one trail exists.
 
+![](https://github.com/jxx/earth-yxk/raw/7b0ea7f078240a44597c10ca1b056f7e4f981d49/img/worlddreambank.org/DUBANT.JPG)
 
 ![](http://upload.wikimedia.org/wikipedia/commons/e/e0/AntarcticaRockSurface.jpg)
 
@@ -26,3 +27,5 @@ The setting is somewhere between 4000 and 8000 AD, no-one is quite sure. Life is
 ![](http://upload.wikimedia.org/wikipedia/commons/8/8b/Topographic_map_of_Greenland_bedrock.jpg)
 
 ![](https://github.com/jxx/earth-yxk/blob/master/img/north.png?raw=true)
+
+
