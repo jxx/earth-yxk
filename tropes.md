@@ -1,6 +1,6 @@
 ##### Story hooks and tropes
 
-* New History (NH). Northern Standard calendar year 580. Tartica calendars vary between nations, the longest count 1211 years since the Merikans first arrived. Not that calendars really matter. 
+New History (NH). Northern Standard calendar year 1580. Tartica calendars vary between nations, the longest count 1211 years since the Merkans first arrived. Not that calendars really matter.
 
 4 civs / worlds:
 * Northern hemisphere remains of modern world as we know it. Went through the blackout, but some places have been inhabited continously.
