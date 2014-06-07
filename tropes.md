@@ -8,6 +8,10 @@
 * Merkans, heat-adapted subspecies of *Homo Sapiens* with unknown origins. Runs the only communicaiton trail between north and south.
 * Elonites. Unknown to the rest.
 
+Stories / epics
+* An insular doxarchy claiming the year is not more than AD 2114.
+* Zheng He expedition from north to south - or the other way. Invasion force?
+
 Travel:
 * Sail ships with emergency steam (charcoal/wood)
 * Overland thousand year old route across the Americas, only passable by merkans.
@@ -15,14 +19,14 @@ Travel:
 
 Factions:
 * Norpol. Centre of humanity 2.0 according to themselves. Ayn Rand meets Kowloon walled megacity. Free economic zone. Most live cramped, poor, nasty, brutish, and short lives.
-* Redwood nation. Got trees.
+* Redwood nation, North Am. Got trees.
 * Svalbar. Got seeds and secret knowledge.
 * Merkans. Controls very high value north-south trade and communications.
 * Sulfur miners. For gunpowder.
 * Bat guano gatherers. For gunpowder.
 
 Resources/tech:
-* Trade in knowledge hugely important. Wars are fought over dox.
+* Trade in knowledge hugely important. Wars are fought over dox. Cryptography and proof of work computation are highly sought skills.
 * Antarctica has coal. Valuable. 
 * Electricity is widely known but no standards exist. Local production only. 
 * Electronicians dabble in electronics like it was magic.
