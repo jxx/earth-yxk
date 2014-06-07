@@ -12,4 +12,6 @@ http://www.motherjones.com/tom-philpott/2012/11/are-we-heading-toward-peak-ferti
 
 http://runciblecatsbazaar.blogspot.no/2010/08/peak-potassium-next-resource-war.html
 
+http://www.theguardian.com/environment/earth-insight/2014/jun/04/mineral-resource-fossil-fuel-depletion-terraform-earth-collapse-civilisation
+
 http://www.theguardian.com/environment/earth-insight/2014/jun/04/scientists-limits-to-growth-vindicated-investment-transition-circular-economy
