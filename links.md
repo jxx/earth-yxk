@@ -8,3 +8,6 @@ http://www.informationisbeautiful.net/visualizations/how-many-gigatons-of-co2/
 
 http://www.worlddreambank.org/D/DUBIA.HTM
 
+http://www.motherjones.com/tom-philpott/2012/11/are-we-heading-toward-peak-fertilizer
+
+http://runciblecatsbazaar.blogspot.no/2010/08/peak-potassium-next-resource-war.html
