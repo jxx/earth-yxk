@@ -21,9 +21,17 @@ Factions:
 * Sulfur miners. For gunpowder.
 * Bat guano gatherers. For gunpowder.
 
-Resources:
-* Antarctica has coal. Valuable. Threatened by biodiesel.
+Resources/tech:
+* Trade in knowledge hugely important. Wars are fought over dox.
+* Antarctica has coal. Valuable. 
+* Electricity is widely known but no standards exist. Local production only. 
+* Electronicians dabble in electronics like it was magic.
+* 
 
 Characters:
-* Acolyte at Svalbar institute. Takes part on the first ocean crossing.
-* Grou of Merikans in Antarctica.
+* Acolyte at Svalbar institute.
+* Group of Merikans in Antarctica.
+ 
+
+Locations:
+* Rushmor and caves nearby. Merkian holy land.
