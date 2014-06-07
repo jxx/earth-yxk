@@ -13,11 +13,13 @@ As this is happening, further advances in leisures of life nudges us into post-s
 
 Moore's law glides to a halt. We never invent true AI. We never colonize space. A few attempts are made at commericalizing it, but the investments invariably fail. We do not cure aging and the singularity never comes. 
 
-After some time, humanity settles into a steady-state of being really well off. Culture changes. Lack of external stress eliminates incentives for individuals to take on skills and knowledge.
+Humanity settles into a steady-state of being really well off. *The High*. Culture changes. Lack of external stress reduce incentives for individuals to take on skills and knowledge. We grow more hedonistic. Masters of the universe, fusion or not. Automation makes childbearing and -raising easier. Global infant mortaility is zero. Life expectancy is a hundred plus. As more time can be devoted to raising children, population growth rate slowly increases. A few attempts at child-restriction policies are ignored and denounced as fascist, as overpopulation and food shortage is a concept of the past. The world can easiily feed 30 billion. And for a time it does.
 
-Population, which growth has been close to zero ever since the poorest person was better off than a citizen of Western Europe was in the late 1990s, ... workforce ... food supply ... potassium and phosphorous ... 
+Until the potassium and phosphorous futures goes ballistic as all of this year's expolartory missions for economically viable deposits report negs. Two pieces of the periodic table are no longer available in the enormous quantities the world demands.
 
-... conflicts increase ... decline ... climate change ... resource wars ... last antibiotics fail ... details scarce and timeline nonexistent ...
+For centuries, the poorest person has been better off than a millionaire in the 1990s. Basic income covering expenses for most, paid work perplexingly a thing only for idealists that can be bothered. Now food prices are rising to the extent that *bincers* have to start budgeting. While famine is still a few decades off, this event is only the first of many small dominoes that send humanity back to the [state of nature](https://en.wikipedia.org/wiki/State_of_nature).
+
+... conflicts increase ... decline spirals ... climate change worst case ... resource wars ... last antibiotics fail ... details scarce and timeline nonexistent ...
 
 The entire carbon sink of oil, gas and coal is spent, most of it released into the atmosphere. It does not matter whether it takes 100 or 1000 years. On a geological timescale the change is instantaneous. 
 
