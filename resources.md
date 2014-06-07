@@ -8,11 +8,11 @@
 * Natural gas
 * Coal (few small deposits deep in east Antarctica)
 
-##### Unavailable 
-* Aluminium (energy req)
-* Mined [phosphorous](https://en.wikipedia.org/wiki/Peak_phosphorus)
+##### Unavailable in nature
+* Aluminium (energy req). Bauxite is depleted. Recycled material still in use.
+* Mined [phosphorous](https://en.wikipedia.org/wiki/Peak_phosphorus) and potassium, leads to no artificial fertilizers.
 
-##### Rare-earth minerals varies:
+###### Rare-earth mineral deposits are all but depleted:
 * aeschynite (Inner Mongolia)
 * allanite (Greenland)
 * apatite
@@ -31,4 +31,3 @@
 * wakefieldite
 * xenotime
 * zircon
-
