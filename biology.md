@@ -14,7 +14,7 @@ Rodents have won the competition on land. The warmer parts of the globe is gener
 
 All whales and fish are gone. Squid and octopuses are the only large ocean animals. Most of the oceans in the hot zone is a soup of kelp, algae and jellyfish.
 
-The biggest winner are birds. Being able to migrate, high intelligence, and large variations in size and ecological function has seen some populations going through bottlenecks and come out on the other side as highly evolved species:
+The biggest winner are birds. Being able to migrate, high intelligence, and large variations in size and ecological function has seen some populations go through bottlenecks and come out on the other side as highly evolved species. The rodent food source has also helped.
 * Tool use incidence is up among corvidae, with some rumors of giant ravens trading and using fire.
 * Peregrine falcons cooperate and hunt in family packs of a few dozen, dominating the food chain and deadly to unarmed humans.
 * Emperor Penguins have less fat and take on giant squids with newfound aggression, on the path to becoming the new sharks. These sharks walk on land.
