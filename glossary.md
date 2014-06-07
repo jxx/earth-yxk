@@ -4,7 +4,7 @@ During The High, a creole evolved from the world's major languages. Based on Eng
 
 The pace of cultural change and exchange outpaced attempts at standardising written Intlish, providing archeo-librarians with ample headaches when deciphering texts from before the Blackout. 
 
-In the year X000, spoken languages are again varied beyond comprehension. Intlish survives through ancient texts, and scrapes by as a limited vocabulary pidgin amongst traders (who often trade in documents, *dåx*), as well as in place names and expresions with ancient origins. 
+In the year X000, spoken languages are again varied beyond comprehension. Intlish survives through ancient texts, and scrapes by as a limited vocabulary pidgin amongst traders (who often trade in documents, *dåx*), as well as in place names and expressions with ancient origins. 
 
 #### Wordlist
 * **The High** The plateau of humanity's existence; approx 2050-2200. Followed by a decline which culimnated in The Blackout
