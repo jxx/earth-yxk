@@ -12,9 +12,9 @@ Proving that the best survival trait to possess for an animal is usefullness to 
 
 Rodents have won the competition on land. The warmer parts of the globe is generally populated by small rats and mice. Tartica has herds of giant [capybaras](https://en.wikipedia.org/wiki/Capybara) that are the largest extant land animals by weight.
 
-All whales and fish are gone. Squid and octopuses are the only large ocean animals.
+All whales and fish are gone. Squid and octopuses are the only large ocean animals. Most of the oceans in the hot zone is a soup of kelp, algae and jellyfish.
 
-The biggest winner of all are birds. Being able to migrate, high intelligence, and large variations in size and ecological function has seen some populations going through bottlenecks and come out on the other side as highly evolved species:
-* Tool use incidence is up among corvidae, with some giant raven populations rumored to show signs of trading. 
-* Peregrine falcons now hunt in packs of a few dozen, dominating the food pyramid and deadly to unarmed humans.
-
+The biggest winner are birds. Being able to migrate, high intelligence, and large variations in size and ecological function has seen some populations going through bottlenecks and come out on the other side as highly evolved species:
+* Tool use incidence is up among corvidae, with some rumors of giant ravens trading and using fire.
+* Peregrine falcons cooperate and hunt in family packs of a few dozen, dominating the food chain and deadly to unarmed humans.
+* Emperor Penguins have less fat and take on giant squids with newfound aggression, on the path to becoming the new sharks. These sharks walk on land.
