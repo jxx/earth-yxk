@@ -11,5 +11,4 @@ The setting is probably somewhere between 4000 and 8000 AD, no-one is quite sure
 
 ![](http://infobeautiful3.s3.amazonaws.com/2014/04/1276_gigatons_CO2_apr2014.png)
 
-
-
+![](http://imgs.xkcd.com/comics/4_5_degrees.png)
