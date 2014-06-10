@@ -6,8 +6,26 @@ The pace of cultural change and exchange outpaced attempts at standardising writ
 
 In the year X000, spoken languages are again varied beyond comprehension. Intlish survives through ancient texts, and scrapes by as a limited vocabulary pidgin amongst traders (who often trade in documents, *dåx*), as well as in place names and expressions with ancient origins. 
 
-#### Wordlist
+#### Concepts
 * **The High** The plateau of humanity's existence; approx 2050-2200. Followed by a decline which culimnated in The Blackout
 * **The Blackout** Approx 2750-? The last resources spent, global transportation and communication stops and states dismantle in more or less completely devastating ways.
 * **The Rise** East Antarcitca melting accellerates and collapses into the ocean in a series of slow and quick cataclysms pounding those residing at the shores over, and over, for generations.
 * **New History, NH** Current era. Both north and south use Julian-based calendars, but the year counts and leap year timings vary.
+
+#### Wordlist
+|English   	|Russian   	|Norwegian   	|Other langs.   	|Notes   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|-grad   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
