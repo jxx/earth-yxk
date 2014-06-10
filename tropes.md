@@ -26,7 +26,7 @@ Factions:
 * Merkans. Control very high value north-south trade and communications.
 * Sulfur miners and guano gatherers. Got gunpowder.
 * The Tartican freelance navy. Needs coal and gunpowder. Got firepower, supplies protection.
-* Wikings. Culture centered around an ancient encyclopedic text which truthiness is debated. The last article is AD 2114 and they claim that that is the current year.
+* Wikings. Culture centered around an ancient powerful encyclopedic text which truthiness is debated. The last year in the text is from AD 2014 and they claim that it is now merely one century later.
 
 Resources/tech:
 * Trade in knowledge hugely important. Wars are fought over dox. Cryptography and proof of work computation are highly sought skills.
