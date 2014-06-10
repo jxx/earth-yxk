@@ -36,6 +36,10 @@ Resources/tech:
 * [Tartica] Tronicians dabble in electronics like it was magic.
 * [North] Electronics more developed, doing library-archeology on Ancient Data.
 
+Climate/weather:
+* Hurricanes raining mashed kelp from the ocean.
+* 
+
 Characters:
 * Acolyte at Svalbar institute.
 * Group of Merikans in Antarctica. Suspicious of the new traders and their news.
