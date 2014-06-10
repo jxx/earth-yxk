@@ -18,3 +18,7 @@ The biggest winner are birds. Being able to migrate, high intelligence, and larg
 * Tool use incidence is up among corvidae, with some rumors of giant ravens trading and using fire.
 * Peregrine falcons cooperate and hunt in family packs of a few dozen, dominating the food chain and deadly to unarmed humans.
 * Emperor Penguins have less fat and take on giant squids with newfound aggression, on the path to becoming the new sharks. These sharks walk on land.
+
+####Flora
+
+[Ferns](https://en.wikipedia.org/wiki/Cyathea_medullaris) have made a comeback.
