@@ -15,7 +15,7 @@ Stories / epics
 
 Travel:
 * Sail ships with emergency steam (charcoal/wood)
-* Overland thousand year old route across the Americas, only passable by merkans.
+* The oceans around equator are impassible due to heat, ocean kelp growth and weather. Overland thousand year old route across the Americas, only passable by merkans.
 * Svalbar has recently bred grains that allow for limited industrial production of biodiesel. This means partially motorized transportation, and opens for a sea expedition to Tartica, the first in NH. But which route to take?
 
 Factions:
