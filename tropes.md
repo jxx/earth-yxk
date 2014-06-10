@@ -9,6 +9,7 @@ New History (NH). Northern Standard calendar year 1580. Tartica calendars vary b
 * Elonites. Unknown to the rest.
 
 Stories / epics
+* Fist contacts all over the place for centuries as small communities begin to expand, Civ style.
 * Zheng He expedition from north to south - or the other way. Invasion force?
 * A field zoological expedition researching donkey-sized ducks in Fugo when merkians arrive for the first time in decades. They bear dox and news of the coming expedition.
 * The 1(2?3?)-year land journey across the Americas. Start in early fall, get to equator by midwinter then outrun spring to the other pole. Getting stuck on the way.
