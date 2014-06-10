@@ -25,6 +25,7 @@ Factions:
 * Sulfur miners and guano gatherers. Got gunpowder.
 * The Tartican freelance navy. Needs coal and gunpowder. Got firepower, supplies protection.
 * An insular doxarchy claiming the year is not more than AD 2114.
+* Wikings. Culture centered around an ancient lexiographic text which truthiness is debated.
 
 Resources/tech:
 * Trade in knowledge hugely important. Wars are fought over dox. Cryptography and proof of work computation are highly sought skills.
