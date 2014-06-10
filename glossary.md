@@ -15,7 +15,7 @@ In the year X000, spoken languages are again varied beyond comprehension. Intlis
 #### Wordlist
 |English   	|Russian   	|Norwegian   	|Other langs.   	|Notes   	|
 |---	|---	|---	|---	|---	|
-|   	|   	|-grad   	|   	|   	|
+|   	|-grad    	|  	|   	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
