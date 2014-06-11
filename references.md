@@ -16,4 +16,4 @@ http://www.theguardian.com/environment/earth-insight/2014/jun/04/mineral-resourc
 
 http://www.theguardian.com/environment/earth-insight/2014/jun/04/scientists-limits-to-growth-vindicated-investment-transition-circular-economy
 
-http://www.shutterstock.com/gallery-487651p1.html
+http://www.shutterstock.com/gallery-487651p1.html - photo archive https://imgur.com/a/XQxOb
