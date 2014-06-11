@@ -24,4 +24,4 @@ The biggest winner are birds. Being able to migrate, high intelligence, and larg
 
 ####Flora
 
-[Ferns](https://en.wikipedia.org/wiki/Cyathea_medullaris) have made a comeback.
+[Ferns](https://en.wikipedia.org/wiki/Cyathea_medullaris) have made a comeback, [regrowing faster than trees after global forest fires](http://www.lpi.usra.edu/science/kring/epo_web/impact_cratering/enviropages/wildfires.html).
