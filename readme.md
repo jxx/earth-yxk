@@ -9,8 +9,9 @@ After uncountable centuries at the brink of extinction, ancient instincts kick i
 
 The year is probably somewhere between 4000 and 6000 AD, no-one is quite sure and claims vary from 2114 AD to 40K. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between are furnaced wastelands of jungles and deserts, oceans overgrown by algae and kelp. Weather is crap. Scattered relics and artefacts still draw the adventurous into the unknown, some returning with tales of monsters. Life below 60° lat. is lethal. Few try the years long journey from north to south, but one trail exists.
 
-![](http://www.scientificamerican.com/media/inline/partner/apocalypse-soon-has-civilization-passed-the-environmental-point-of-no-return_2.jpg)
+
 ![](http://imgs.xkcd.com/comics/4_5_degrees.png)
+
 ![](http://infobeautiful3.s3.amazonaws.com/2014/04/1276_gigatons_CO2_apr2014.png)
 
-
+![](http://www.scientificamerican.com/media/inline/partner/apocalypse-soon-has-civilization-passed-the-environmental-point-of-no-return_2.jpg)
