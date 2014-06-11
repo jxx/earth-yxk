@@ -1,6 +1,6 @@
 The rapid change in climate lasting a few millenia drove most of the species known in the Ancient World to extinction. This caused some lucky-fit species to [evolve over just a few hundred generations](https://en.wikipedia.org/wiki/Adaptive_radiation) to fill holes in the ecosystem.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Axolotl_ganz.jpg/320px-Axolotl_ganz.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Axolotl_ganz.jpg/320px-Axolotl_ganz.jpg)    
 [A hopeful monster](https://en.wikipedia.org/wiki/Hopeful_monster#Macromutation_theory)
 
 Antarctica saw a gradual migration of species previously found in South America, southern Africa and Australasia.
