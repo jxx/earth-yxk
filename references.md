@@ -15,3 +15,5 @@ http://runciblecatsbazaar.blogspot.no/2010/08/peak-potassium-next-resource-war.h
 http://www.theguardian.com/environment/earth-insight/2014/jun/04/mineral-resource-fossil-fuel-depletion-terraform-earth-collapse-civilisation
 
 http://www.theguardian.com/environment/earth-insight/2014/jun/04/scientists-limits-to-growth-vindicated-investment-transition-circular-economy
+
+http://www.shutterstock.com/gallery-487651p1.html
