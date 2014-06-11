@@ -7,7 +7,7 @@ In this scenario, humanity continues to progress over the next decades, for so t
 
 After uncountable centuries at the brink of extinction, ancient instincts kick in and we crawl back; rebuilding, retrying and rediscovering what we once had, and what no longer can be had. We are no longer masters of nature.
 
-The year is probably somewhere between 4000 and 6000 AD, no-one is quite sure and claims vary from 2114 AD to 40K. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between are furnaced wastelands of jungles and deserts, oceans overgrown by algae and kelp. Weather is crap. Scattered relics and artefacts still draw the adventurous into the unknown, some returning with tales of monsters. Life below 60° lat. is lethal. Few try the years long journey from north to south, but one trail exists.
+The year is probably somewhere between 4000 and 6000 AD, no-one is quite sure and claims vary. Life is harsh, but several distinct cultures talk, trade and war across both polar regions. In between are furnaced wastelands of jungles and deserts, oceans overgrown by algae and kelp. Weather is crap. Scattered relics and artefacts still draw the adventurous into the unknown, some returning with tales of monsters. Life below 60° lat. is lethal. Few try the years long journey from north to south, but one trail exists.
 
 
 ![](http://imgs.xkcd.com/comics/4_5_degrees.png)
