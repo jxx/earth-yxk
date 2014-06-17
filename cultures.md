@@ -6,3 +6,7 @@ The main influences making the cultures of YXK different from ours are the polar
 
 ![](http://imgs.xkcd.com/comics/manual_for_civilization.png)  
 Some surviving texts are more useful than others.
+
+
+![](https://i.imgur.com/VqeAxWd.jpg)  
+A Doxarchy polis
