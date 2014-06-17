@@ -22,7 +22,7 @@ The increased temperature has drastically increased atmospheric convection, lead
 
 While there are no records of humans settling permanently on Antarctica during The High, most available resources were extracted as the ice sheet retracted. A few scattered coal deposits are all that remains of fossil fuels on the entire planet.
 
-![](http://alexsone.deviantart.com/art/Antarctica-climate-map-Eng-version-412134712)
+![](http://th07.deviantart.net/fs70/PRE/i/2013/311/d/7/antarctica_climate_map__eng_version__by_alexsone-d6tdh6g.jpg)
 
 ![](http://upload.wikimedia.org/wikipedia/commons/e/e0/AntarcticaRockSurface.jpg)
 
