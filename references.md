@@ -19,3 +19,5 @@ http://www.theguardian.com/environment/earth-insight/2014/jun/04/scientists-limi
 http://www.shutterstock.com/gallery-487651p1.html - photo archive https://imgur.com/a/XQxOb
 
 http://www.scientificamerican.com/article/apocalypse-soon-has-civilization-passed-the-environmental-point-of-no-return/
+
+http://radoxist.deviantart.com/
