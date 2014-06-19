@@ -8,6 +8,9 @@
 * Natural gas
 * Coal (few small deposits deep in east Antarctica)
 
+![](http://ppcdn.500px.org/61424725/9a987ac150001d908d57e1ab67767fcd9a1985cc/2048.jpg)  
+Bountiful Earth
+
 ##### Unavailable in nature
 * Aluminium (energy req). Bauxite is depleted. Recycled material still in use.
 * Mined [phosphorous](https://en.wikipedia.org/wiki/Peak_phosphorus) and potassium, leads to no artificial fertilizers.
