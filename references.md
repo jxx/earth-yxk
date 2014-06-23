@@ -23,3 +23,5 @@ http://www.scientificamerican.com/article/apocalypse-soon-has-civilization-passe
 http://radoxist.deviantart.com/
 
 http://alexsone.deviantart.com/art/Antarctica-climate-map-Eng-version-412134712
+
+http://www.zerohedge.com/news/2014-06-22/how-country-dies
