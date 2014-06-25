@@ -25,3 +25,5 @@ http://radoxist.deviantart.com/
 http://alexsone.deviantart.com/art/Antarctica-climate-map-Eng-version-412134712
 
 http://www.zerohedge.com/news/2014-06-22/how-country-dies
+
+https://www.youtube.com/watch?v=M2Jxs7lR8ZI
