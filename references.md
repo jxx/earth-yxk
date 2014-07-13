@@ -6,6 +6,8 @@ http://pubs.giss.nasa.gov/abs/ha08510t.html
 
 http://www.informationisbeautiful.net/visualizations/how-many-gigatons-of-co2/
 
+http://www.ccrc.unsw.edu.au/staff/profiles/sherwood/wetbulb.html
+
 http://www.worlddreambank.org/D/DUBIA.HTM
 
 http://www.motherjones.com/tom-philpott/2012/11/are-we-heading-toward-peak-fertilizer
