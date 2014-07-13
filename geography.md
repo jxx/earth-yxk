@@ -4,6 +4,9 @@ Humanity is relegated to the far north and south. In the northern hemisphere, th
 
 Nothing but rumors exist of any other population pockets, but there very well could be. With a few exceptions, not much is known about the world south of 60 degrees north, or north of the tip of south America. where the uninhabitable jungles and deserts of the high tropics begin.
 
+![http://www.ccrc.unsw.edu.au/staff/profiles/sherwood/wetbulb.html](http://www.ccrc.unsw.edu.au/staff/profiles/sherwood/images/twmax_highresmap_hot_sm.png)    
+Wet-bulb temperature in a world of roughly 10C warmer global mean temperature. 30+ is dangerous. 35 is lethal. (The world now is at around +15C from mean.)
+
 The increased temperature has drastically increased atmospheric convection, leading to a year-round hypercane season in both the Atlantic and Pacific. While some brave souls attempt from time to time, no-one has sailed south of the equator in currently recorded history.
 
 #### Norhtern inhabited lands
